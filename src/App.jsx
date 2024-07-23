@@ -30,7 +30,7 @@ function App() {
   };
 
   return (
-    <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat overflow-x-hidden' style={{ backgroundImage: `url('https://media.istockphoto.com/id/1264887364/photo/coin-stacks-sitting-on-a-blue-financial-graph-background.jpg?s=1024x1024&w=is&k=20&c=LibXd6xnEbk6RrLDgklZg5Siy8-YkmlCZ1YMR66rmaU=')` }}>
+    <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat overflow-x-hidden' style={{ backgroundImage: `url('https://assets.mixkit.co/videos/47006/47006-thumb-360-2.jpg')` }}>
       <div className='w-full'>
         <div className='w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30'>
           <form onSubmit={(e) => {
